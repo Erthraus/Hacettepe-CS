@@ -1,0 +1,45 @@
+------------Bill for Customer 1-------------
+Customer: John Doe
+Membership Type: Premium
+Date: 26.01.2023
+
+Items Purchased:
+Book A (Qty: 1) - 15.99 each
+(Valid from 01.01.2023 to 31.01.2023)
+Subtotal: 15.99
+Book B (Qty: 2) - 13.39 each
+(Valid from 01.01.2023 to 31.01.2023)
+Subtotal: 26.78
+
+Total Cost: 42.77
+
+------------Bill for Customer 2-------------
+Customer: Jane Smith
+Membership Type: Standard
+Date: 20.02.2023
+
+Items Purchased:
+Book A (Qty: 2) - 17.99 each
+(Valid from 01.02.2023 to 28.02.2023)
+Subtotal: 35.98
+Book B (Qty: 1) - 14.49 each
+(Valid from 01.02.2023 to 28.02.2023)
+Subtotal: 14.49
+
+Total Cost: 50.47
+
+------------Bill for Customer 3-------------
+Customer: Bob Johnson
+Membership Type: Basic
+Date: 19.01.2023
+
+Items Purchased:
+Book B (Qty: 2) - 15.1 each
+(Valid from 01.01.2023 to 31.01.2023)
+Subtotal: 30.2
+Book A (Qty: 3) - 19.99 each
+(Valid from 01.01.2023 to 31.01.2023)
+Subtotal: 59.97
+
+Total Cost: 90.17
+
