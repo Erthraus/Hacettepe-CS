@@ -1,6 +1,0 @@
-Name : AYSE
-Surname : CAN
-Registration Number : R4631
-Position : RESEARCH_ASSISTANT
-Year of Start : 2015
-Total Salary : 5458.0 TL
