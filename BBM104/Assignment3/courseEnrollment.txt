@@ -1,0 +1,14 @@
+1	9
+MultipleChoice	Analysis AdditionalTasks QuestionSet
+Essaybased	Analysis LiteratureReview QuestionSet
+2	35
+Essaybased	Analysis
+Essaybased	QuestionSet LiteratureReview
+MultipleChoice	LiteratureReview
+3	45
+MultipleChoice	LiteratureReview
+MultipleChoice	LiteratureReview
+4	46
+Essaybased	QuestionSet
+
+

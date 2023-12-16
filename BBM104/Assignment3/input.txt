@@ -1,0 +1,8 @@
+AddStudent 33 Hakan Kanat 234-5677896 Ayranci 10. sok. 30/10
+AddStudent 88 Beril Maral 568-8964142 Bilkent 32 cd. 72/3
+RemoveStudent 46
+CreateEnrollment 7 50
+AddAssessment 7 Essaybased QuestionSet LiteratureReview
+AddAssessment 7 MultipleChoice QuestionSet AdditionalTasks
+TotalFee 7
+ListStudents
