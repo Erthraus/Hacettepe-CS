@@ -1,0 +1,10 @@
+After distinctElements:
+Total distinct element=11
+After addOrRemove -1:
+23 2 6 12 23 34 35 32 75 60 34 54
+After removeGreater 59:
+23 2 6 12 23 34 35 32 34 54
+After reverse 4:
+12 6 2 23 23 34 35 32 34 54
+After sortElements:
+2 6 12 23 23 32 34 34 35 54
