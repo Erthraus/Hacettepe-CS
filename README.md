@@ -5,3 +5,4 @@
 - BBM204 - Algorithms
 - BBM418 - Computer Vision
 - BBM409 - Machine Learning
+- BBM414 - Graphics Programming
